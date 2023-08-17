@@ -1,0 +1,16 @@
+Estado de Pérdidas y Ganancias
+
+Ventas                  1000        E
+Costos de fabricación    200        E
+----------------------------
+Utilidad Bruta           800        
+Gastos de operación      300        E
+----------------------------
+Utilidad Imponible       500        
+Impuestos (18%)           90        
+----------------------------
+Utilidad Neta            410        
+
+
+
+

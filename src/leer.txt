@@ -1,0 +1,15 @@
+POO
+
+1. diseño de clases (encubrir (Consola), servicios (Baldor))
+
+2. encapsulamiento
+
+3. herencia
+
+4. abstracción
+
+5. polimorfismo
+
+6. interfaces
+
+
